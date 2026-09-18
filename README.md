@@ -10,7 +10,11 @@ CS2’de eğlenceli ve agresif bir oyun deneyimi arayanlar için ücretsiz Rage 
 
 
 
-📌 Kurulum ve kullanım bilgileri indirme bağlantısının yanında paylaşılacaktır.
+📌 Kurulum ve kullanım 
+Oyunu Açın Ve
+
+Lobi Ekranı Gelince Exe Yi Açın İnject Başarılı Olana Kadar Bekleyin.
+
 
 
 
@@ -22,13 +26,11 @@ CS2’de eğlenceli ve agresif bir oyun deneyimi arayanlar için ücretsiz Rage 
 
 
 
-❤️ Destek olmak için konuyu beğenmeyi ve yorum bırakmayı unutmayın!
 
 
 
-📥 İndirme: [BURAYA LİNK]
-🔑 Şifre: [VARSA BURAYA]
-📸 Ekran Görüntüleri: [BURAYA EKLE]
+
+
 ​
 ​
 ​
